@@ -23,9 +23,9 @@ command: python ASELSD.py
 
 Explanation: The input of the protocol is "fasta" data file of miRNA and lncRNA, the data format is:
 
-/>RNAname
+>>RNAname
 
-RNA sequence
+>RNA sequence
 
 The output of the protocol is the predicted miRNA-lncRNA interaction, and we will add more predicted information in future versions.
 
