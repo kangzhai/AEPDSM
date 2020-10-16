@@ -21,11 +21,11 @@ Open the console or powershell in the local folder and copy the following comman
 
 command: python ASELSD.py
 
-Explanation: The input of the protocol is "fasta" data file of miRNA and lncRNA, the data format is:
+Explanation: The input of the protocol is "fasta" data file of miRNA and lncRNA, the data format is such as:
 
->>RNAname
+">Ath-miR4245"
 
->RNA sequence
+"AAUUGUCAGUAUAAAUCUUUGAUC"
 
 The output of the protocol is the predicted miRNA-lncRNA interaction, and we will add more predicted information in future versions.
 
