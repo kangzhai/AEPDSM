@@ -14,7 +14,7 @@ Python 3.6.5
 Kreas 2.2.4
 
 # Data
-
+"MR.zip" and "PCC.zip" are sequence and feature vector information from 8 training sets for indicator matches. Because the files are too large, we upload it as the compressed packages. Simply unzip them to the same folder as ASELSD.py. Please do not change the folder names of "MR" and "PCC", otherwise an error message that the folder can't be found will appear.
 
 # Usage
 Open the console or powershell in the local folder and copy the following command to run ASELSD. It is also feasible to run the code using python IDE (such as pyCharm).
@@ -23,9 +23,9 @@ command: python ASELSD.py
 
 Explanation: The input of the protocol is "fasta" data file of miRNA and lncRNA, the data format is such as:
 
-">Ath-miR4245"
+">Ath-miR4245" (RNA name)
 
-"AAUUGUCAGUAUAAAUCUUUGAUC"
+"AAUUGUCAGUAUAAAUCUUUGAUC" (RNA sequence)
 
 The output of the protocol is the predicted miRNA-lncRNA interaction, and we will add more predicted information in future versions.
 
