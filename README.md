@@ -16,6 +16,8 @@ Kreas 2.2.4
 # Data
 "MR.zip" and "PCC.zip" are sequence and feature vector information from 8 training sets for indicator matches. Because the files are too large, we upload it as the compressed packages. Simply unzip them to the same folder as ASELSD.py. Please do not change the folder names of "MR" and "PCC", otherwise an error message that the folder can't be found will appear.
 
+"Base models" provide 8 trained base models. They are trained with different plant species datasets.
+
 # Usage
 Open the console or powershell in the local folder and copy the following command to run ASELSD. It is also feasible to run the code using python IDE (such as pyCharm).
 
