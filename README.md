@@ -23,7 +23,7 @@ command: python ASELSD.py
 
 Explanation: The input of the protocol is "fasta" data file of miRNA and lncRNA, the data format is:
 
->RNAname
+/>RNAname
 
 RNA sequence
 
