@@ -1,4 +1,4 @@
-# Adaptive selective ensemble learning based on sample correlation and dynamic/semi-dynamic mechanism
+# Adaptive ensemble pruning and dynamic/semi-dynamic mechanism
 
 import numpy as np
 import re
