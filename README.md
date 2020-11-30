@@ -29,9 +29,9 @@ Explanation: The input of the method is "fasta" data file of miRNA and lncRNA, t
 
 "AAUUGUCAGUAUAAAUCUUUGAUC" (RNA sequence)
 
-The output of the protocol is the predicted miRNA-lncRNA interaction, and we will add more predicted information in future versions.
+The output of the method is the predicted miRNA-lncRNA interaction, and we will add more predicted information in future versions.
 
-Users can open ASELSD.py using python IDE. Users can also open ASELSD.py as .txt or .fasta files. Then users can manually adjust the path of miRNA and lncRNA, or manually choose to use dynamic or semi-dynamic methods.
+Users can open ASELSD.py using python IDE. Users can also open ASELSD.py as .txt or .fasta files. Then users can manually adjust the path of miRNA and lncRNA, or manually choose to use dynamic or semi-dynamic mechanisms.
 
 # Reference
 Please waiting for update
