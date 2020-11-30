@@ -23,7 +23,7 @@ Open the console or powershell in the local folder and copy the following comman
 
 command: python ASELSD.py
 
-Explanation: The input of the protocol is "fasta" data file of miRNA and lncRNA, the data format is such as:
+Explanation: The input of the method is "fasta" data file of miRNA and lncRNA, the data format is such as:
 
 ">Ath-miR4245" (RNA name)
 
