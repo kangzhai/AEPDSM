@@ -34,4 +34,4 @@ The output of the method is the predicted miRNA-lncRNA interaction, and we will 
 Users can open ASELSD.py using python IDE. Users can also open ASELSD.py as .txt or .fasta files. Then users can manually adjust the path of miRNA and lncRNA, or manually choose to use dynamic or semi-dynamic mechanisms.
 
 # Reference
-Please waiting for update
+The paper has been submitted. Please waiting for updating.
