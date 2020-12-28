@@ -1,7 +1,7 @@
 # AEPDSM
 The related data and scoure codes of adaptive ensemble pruning and dynamic/semi-dynamic mechanism (AEPDSM) privided by Q. Kang.
 
-The latest version is updated on 2020.11.04.
+The latest version is updated on November 4, 2020.
 
 # Introduction
 AEPDSM is a novel method that first speculates the performances of different base models for various test samples based on sample correlations, and then adaptively prunes the base models and kept the others for ensemble. This method is applied to plant miRNA-lncRNA interaction prediction and shows improvement performance over the previous work and strong competitiveness compared with existing methods. It also has strong adaptability and expansibility for more research fields.
