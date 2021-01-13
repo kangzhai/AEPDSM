@@ -1,5 +1,5 @@
 # AEPDSM
-The related data and scoure codes of adaptive ensemble pruning and dynamic/semi-dynamic mechanism (AEPDSM) privided by Q. Kang.
+The related data and scoure codes of adaptive ensemble pruning and dynamic/semi-dynamic mechanism (AEPDSM) are privided by Q. Kang.
 
 The latest version is updated on November 4, 2020.
 
